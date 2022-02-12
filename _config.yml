@@ -64,6 +64,21 @@ content:
           포트폴리오 
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+          
+        title: 
+        link: https://github.com/MinhoJJang/WebTeamProject
+        link_text: 
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          포트폴리오 
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -76,28 +91,16 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
- 
-   - title: Skill
+  - title: Skill
     layout: list
     content:
       - layout: right
         title: Backend
         quote: >
-          Java
-          > Spring MVC, Spring framework
+        
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+         * java   
+         * Spring framework, Spring MVC
  
 #  - title: A Little More About Me
 #     layout: text
