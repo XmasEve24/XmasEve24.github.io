@@ -51,8 +51,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: PORTFOLIO ARCHIVE
-        link: https://github.com/MinhoJJang/WebTeamProject
-        link_text: 
+        link: 
+        link_text: https://github.com/MinhoJJang/WebTeamProject
 #         additional_links:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
@@ -61,9 +61,9 @@ content:
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          포트폴리오 
+          게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          포트폴리오 웹사이트
           
         title: 
         link: https://github.com/MinhoJJang/WebTeamProject
@@ -94,7 +94,7 @@ content:
   - title: Skill
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Backend
         quote: >
         
