@@ -87,13 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          * java   
          * Spring framework, Spring MVC
-  - layout: left
-        title: Backend
-        quote: >
-        
-        description: | # this will include new lines to allow paragraphs
-         * java   
-         * Spring framework, Spring MVC
+ 
       
 #  - title: A Little More About Me
 #     layout: text
