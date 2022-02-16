@@ -78,7 +78,10 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           * 웹개발과 앱개발을 동시에 진행하며 프로그램 입문자부터 시작하여 중급 개발자로 거듭나기 위해 마련된 과정
-content:
+
+- title: Education
+    layout: list
+    content:
       - layout: left
         title: 코리아IT아카데미
         sub_title: 웹/앱 개발
@@ -88,7 +91,6 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           * 웹개발과 앱개발을 동시에 진행하며 프로그램 입문자부터 시작하여 중급 개발자로 거듭나기 위해 마련된 과정
-
           
   - title: Skill
     layout: list
