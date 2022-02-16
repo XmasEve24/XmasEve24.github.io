@@ -62,8 +62,9 @@ content:
         quote: >
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
-                    포트폴리오 웹사이트
-          title: PORTFOLIO ARCHIVE
+                    포트폴리오 웹사이트   
+                    
+        title: PORTFOLIO ARCHIVE
         link: Link to project
         link_text: https://github.com/MinhoJJang/WebTeamProject
         caption: 2021.12 ~ 2022.01
