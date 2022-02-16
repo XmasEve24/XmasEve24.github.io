@@ -63,23 +63,8 @@ content:
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
                     포트폴리오 웹사이트   
-                    
-          
       
   - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: 코리아IT아카데미
-        sub_title: 웹/앱 개발
-        caption: 2021.09 ~ 2022.02
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          * 웹개발과 앱개발을 동시에 진행하며 프로그램 입문자부터 시작하여 중급 개발자로 거듭나기 위해 마련된 과정
-
-- title: Education
     layout: list
     content:
       - layout: left
@@ -103,6 +88,12 @@ content:
          * java   
          * Spring framework, Spring MVC
  
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      
 #  - title: A Little More About Me
 #     layout: text
 #     content: | # this will include new lines to allow paragraphs
