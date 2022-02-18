@@ -52,6 +52,13 @@ content:
         link: Link to project
         link_text: https://github.com/MinhoJJang/WebTeamProject
         caption: 2021.12 ~ 2022.01
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/MinhoJJang/WebTeamProject
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/MinhoJJang/WebTeamProject
         quote: >>
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
