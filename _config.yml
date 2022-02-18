@@ -56,10 +56,6 @@ content:
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
                     포트폴리오 웹사이트   
-                    
-      
-      content:
-      - layout: left
         title: PORTFOLIO ARCHIVE
         link: Link to project
         link_text: https://github.com/MinhoJJang/WebTeamProject
@@ -68,7 +64,7 @@ content:
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
                     포트폴리오 웹사이트   
-                    
+                  
                     
   - title: Education
     layout: list
@@ -92,7 +88,8 @@ content:
          * java   
          * Spring framework, Spring MVC
          
-         title: Backend
+         
+        title: Backend
         description: | # this will include new lines to allow paragraphs
          * java   
          * Spring framework, Spring MVC
