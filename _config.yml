@@ -60,24 +60,24 @@ content:
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
                     포트폴리오 웹사이트
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: PORTFOLIO ARCHIVE2
-        link: Link to project
-        link_text: https://github.com/MinhoJJang/WebTeamProject
-        caption: 2021.12 ~ 2022.01
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/MinhoJJang/WebTeamProject
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/MinhoJJang/WebTeamProject
-        quote: >>
-          게시판 형식의 프로젝트2
-        description: | # this will include new lines to allow paragraphs
-                    포트폴리오 웹사이트2
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: left
+#         title: PORTFOLIO ARCHIVE2
+#         link: Link to project
+#         link_text: https://github.com/MinhoJJang/WebTeamProject
+#         caption: 2021.12 ~ 2022.01
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: https://github.com/MinhoJJang/WebTeamProject
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: https://github.com/MinhoJJang/WebTeamProject
+#         quote: >>
+#           게시판 형식의 프로젝트2
+#         description: | # this will include new lines to allow paragraphs
+#                     포트폴리오 웹사이트2
   - title: Education
     layout: list
     content:
