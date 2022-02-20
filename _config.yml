@@ -45,9 +45,6 @@ about_content: | # this will include new lines to allow paragraphs
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -56,6 +53,24 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: PORTFOLIO ARCHIVE
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: https://github.com/MinhoJJang/WebTeamProject
+        additional_links:
+          - title:  XmasEve24/XmasEve24.github.io
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  XmasEve24/XmasEve24.github.io
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          게시판 형식의 프로젝트
+        description: | # this will include new lines to allow paragraphs
+          포트폴리오 웹사이트
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: PORTFOLIO ARCHIVE2
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: https://github.com/MinhoJJang/WebTeamProject
         additional_links:
