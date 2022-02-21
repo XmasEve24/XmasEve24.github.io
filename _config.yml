@@ -69,7 +69,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: PORTFOLIO ARCHIVE
+        title: Spring Project
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: https://github.com/MinhoJJang/WebTeamProject
         additional_links:
@@ -83,18 +83,6 @@ content:
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
           포트폴리오 웹사이트
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
@@ -107,6 +95,14 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           * 웹개발과 앱개발을 동시에 진행하며 프로그램 입문자부터 시작하여 중급 개발자로 거듭나기 위해 마련된 과정
+      - layout: left
+        title: K-Move스쿨 일본IT 스페셜리스트 양성과정
+        caption: 2020.07 ~ 2021.03
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          * 일본 IT 분야 해외 취업 IT스페셜리스트 양성 과정
   - title: Skill
     layout: list
     content:
