@@ -53,7 +53,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: PORTFOLIO ARCHIVE
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/MinhoJJang/WebTeamProject
         link_text: https://github.com/MinhoJJang/WebTeamProject
         additional_links:
           - title:  XmasEve24/XmasEve24.github.io
@@ -65,13 +65,13 @@ content:
         quote: >
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
-          포트폴리오 웹사이트
+          * 포트폴리오 웹사이트
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Spring Project
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: https://github.com/MinhoJJang/WebTeamProject
+        link_text: https://github.com/XmasEve24/spring-project
         additional_links:
           - title:  XmasEve24/XmasEve24.github.io
             icon: fab fa-github
@@ -82,7 +82,7 @@ content:
         quote: >
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
-          포트폴리오 웹사이트
+          * 간단한 CRUD를 이용한 게시판 프로젝트
   - title: Education
     layout: list
     content:
