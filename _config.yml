@@ -66,6 +66,25 @@ content:
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
           포트폴리오 웹사이트
+|
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: PORTFOLIO ARCHIVE
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: https://github.com/MinhoJJang/WebTeamProject
+        additional_links:
+          - title:  XmasEve24/XmasEve24.github.io
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  XmasEve24/XmasEve24.github.io
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          게시판 형식의 프로젝트
+        description: | # this will include new lines to allow paragraphs
+          포트폴리오 웹사이트
   - title: Experience
     layout: list
     content:
