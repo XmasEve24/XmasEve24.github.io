@@ -70,15 +70,15 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Spring Project
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/XmasEve24/spring-project
         link_text: https://github.com/XmasEve24/spring-project
         additional_links:
           - title:  XmasEve24/XmasEve24.github.io
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/XmasEve24/spring-project
           - title:  XmasEve24/XmasEve24.github.io
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/XmasEve24/spring-project
         quote: >
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
@@ -111,6 +111,11 @@ content:
         description: | # this will include new lines to allow paragraphs
          * java   
          * Spring framework, Spring MVC
+    - layout: left
+        title: Frontend
+        description: | # this will include new lines to allow paragraphs
+         * javaScript   
+         * HTML, CSS
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
