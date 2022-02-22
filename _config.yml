@@ -111,7 +111,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          * java   
          * Spring framework, Spring MVC
-    - layout: left
+      - layout: left
         title: Frontend
         description: | # this will include new lines to allow paragraphs
          * javaScript   
