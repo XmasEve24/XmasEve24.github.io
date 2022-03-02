@@ -65,7 +65,8 @@ content:
         quote: >
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
-          * 포트폴리오 웹사이트
+          * JSP 팀 프로젝트
+          * 지금까지 배웠던 내용들을 사용해 만든 포트폴리오 사이트
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -82,7 +83,8 @@ content:
         quote: >
           게시판 형식의 프로젝트
         description: | # this will include new lines to allow paragraphs
-          * 간단한 CRUD를 이용한 게시판 프로젝트
+          * JavaSpring 개인 
+          * CRUD를 이용한 게시판 프로젝트
   - title: Education
     layout: list
     content:
